@@ -1,0 +1,18 @@
+---
+goodbye: bye
+sayonara: sayonara
+The weather is (.*): I hate it when it's %{c1}
+I love (.*): I love %{c1} too
+I groove to (.*) and (.*): I love %{c1} but I hate %{c2}
+How are you?: I'm well thanks. How are you?
+Great: Good to hear.
+Bad: Sorry to hear that.
+What would you like for Christmas?: A puppy.
+What's your name?: Jeffrey.
+My favourite icecream is (.*): "%{c1} is yucky."
+My favourite place is (.*): Yeah I've heard about %{c1}. I'd like to go.
+What colour is your hair?: Brown
+'What''s your favourite day? ': Monday
+Hello: Hi
+My dog is called (.*) and has (.*) fur and likes to (.*): 'Wow %(c1) sounds great.
+  I like %(c2) and %(c3) also. '
